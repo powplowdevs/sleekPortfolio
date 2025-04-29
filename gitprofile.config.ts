@@ -19,13 +19,13 @@ const CONFIG = {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
         limit: 8, // How many projects to display.
         exclude: {
-          forks: false, // Forked projects will not be displayed if set to true.
+          forks: true, // Forked projects will not be displayed if set to true.
           projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
         },
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['powplowdevs/WINSPAR-Windows-TCP-Optimizer', 'powplowdevs/ASIO-Client-Server-Framework'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -33,26 +33,26 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'WINSPAR',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'WINSPAR is a command-line tool designed to optimize TCP settings and download speeds of applications on Windows systems for improved network performance. It provides features for tuning various TCP parameters, managing application bandwidth usage, and conducting network speed tests.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://private-user-images.githubusercontent.com/74332267/334842018-35a06366-b22b-421b-a18f-9a6131c1e2d8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU5Mzc1OTcsIm5iZiI6MTc0NTkzNzI5NywicGF0aCI6Ii83NDMzMjI2Ny8zMzQ4NDIwMTgtMzVhMDYzNjYtYjIyYi00MjFiLWExOGYtOWE2MTMxYzFlMmQ4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDI5VDE0MzQ1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMwYTIzYzMwYTQxN2EyYjAyYjQ5NzgyNDRkZTM4NzkwM2JhMTM3NDgwYzk1Zjk3MDAxODgyMTk1ZDY4NDk2NWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.k1MjweSb9aTy96yeWwK4G9k9vtpCftwRJYYihd2GZ6o',
+          link: 'https://github.com/powplowdevs/WINSPAR-Windows-TCP-Optimizer',
         },
         {
-          title: 'Project Name',
+          title: 'ASIO Client-Server Framework',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'This framework is a baseline setup for asynchronous communication between a server and multiple clients using Boost ASIO.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://img.freepik.com/free-vector/server-status-concept-illustration_114360-1293.jpg?t=st=1745937637~exp=1745941237~hmac=40ba38c07bc1399459133aba736be14225203cdc21f717c13b3740a40b4c9812&w=826',
+          link: 'https://github.com/powplowdevs/ASIO-Client-Server-Framework',
         },
       ],
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Ayoub Mohamed',
     description: '',
     imageURL: '',
   },
