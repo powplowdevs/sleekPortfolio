@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'WINSPAR is a command-line tool designed to optimize TCP settings and download speeds of applications on Windows systems for improved network performance. It provides features for tuning various TCP parameters, managing application bandwidth usage, and conducting network speed tests.',
           imageUrl:
-            'https://private-user-images.githubusercontent.com/74332267/334842018-35a06366-b22b-421b-a18f-9a6131c1e2d8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU5Mzc1OTcsIm5iZiI6MTc0NTkzNzI5NywicGF0aCI6Ii83NDMzMjI2Ny8zMzQ4NDIwMTgtMzVhMDYzNjYtYjIyYi00MjFiLWExOGYtOWE2MTMxYzFlMmQ4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDI5VDE0MzQ1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMwYTIzYzMwYTQxN2EyYjAyYjQ5NzgyNDRkZTM4NzkwM2JhMTM3NDgwYzk1Zjk3MDAxODgyMTk1ZDY4NDk2NWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.k1MjweSb9aTy96yeWwK4G9k9vtpCftwRJYYihd2GZ6o',
+            'https://github.com/powplowdevs/WINSPAR-Windows-TCP-Optimizer/blob/main/WINSPARLOGO.png?raw=true',
           link: 'https://github.com/powplowdevs/WINSPAR-Windows-TCP-Optimizer',
         },
         {
