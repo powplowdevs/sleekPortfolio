@@ -43,7 +43,7 @@ const CONFIG = {
         {
           title: 'ASIO Client-Server Framework',
           description:
-            'This framework is a baseline setup for asynchronous communication between a server and multiple clients using Boost ASIO.',
+            'An asynchronous, non-blocking C++ framework built on Boost.Asio that lets your application initiate and accept network connections, transfer data, log events, and run background tasks all without ever pausing the main thread, every operation returns immediately and completes in the background so your program stays fully responsive at all times',
           imageUrl:
             'https://img.freepik.com/free-vector/server-status-concept-illustration_114360-1293.jpg?t=st=1745937637~exp=1745941237~hmac=40ba38c07bc1399459133aba736be14225203cdc21f717c13b3740a40b4c9812&w=826',
           link: 'https://github.com/powplowdevs/ASIO-Client-Server-Framework',
@@ -157,7 +157,7 @@ const CONFIG = {
       authors: 'Ayoub Mohamed',
       link: 'https://medium.com/@ayoubsmohamed07/python-linear-regression-5f91b7bf1e56',
       description:
-        'a description of linear regression using python',
+        'In this post, I walk through a Python script that demonstrates linear regression: using a simple dataset, it computes the best-fit line that minimizes squared error, reports an accuracy metric based on how far each point deviates from that line, and offers the complete code on GitHub for anyone who wants to experiment or follow along.',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
