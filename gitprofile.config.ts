@@ -53,7 +53,7 @@ const CONFIG = {
   },
   seo: {
     title: 'Portfolio of Ayoub Mohamed',
-    description: '',
+    description: 'Hello there! I'm Ayoub, a passionate high school student, and self-taught programmer. I have over 6 years of CS experience, and in that time I have built myself a vast set of skills, including languages such as Python, Java, C++, C#, HTML, JavaScript, CSS, SQL, PHP, and more. I believe that technology has the power to shape the future, and with each of my skills, I can contribute to that future.',
     imageURL: '',
   },
   social: {
