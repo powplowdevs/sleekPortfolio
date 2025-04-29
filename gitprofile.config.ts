@@ -125,14 +125,14 @@ const CONFIG = {
     {
       name: 'Google Foundations of Cyber-security Certificate',
       body: 'First course in the Google Cybersecurity Certificate. Introduceing the cybersecurity profession, including the primary job responsibilities and core skills of entry-level analysts; significant events that led to the development of the cybersecurity field; and security’s continued importance to organizational operations. ',
-      year: '2024',
-      link: 'https://csteachers.org/cshs/',
+      year: '2023',
+      link: 'https://www.coursera.org/account/accomplishments/certificate/M4VEWTZL58XR?trk=public_profile_certification-title',
     },
     {
       name: 'Google Manage Security Risks Cybersecurity Certificate',
       body: 'Course within that Google Cybersecurity Certificate covers CISSP eight security domains, steps of risk management, security frameworks and controls (e.g., NIST, CIA triad, OWASP), as well as common security threats, risks, and vulnerabilities.',
-      year: '2024',
-      link: 'http://coursera.org/learn/foundations-of-cybersecurity',
+      year: '2023',
+      link: 'https://www.coursera.org/account/accomplishments/certificate/E53NTFXTHZUW?trk=public_profile_certification-title',
     },
   ],
   educations: [
