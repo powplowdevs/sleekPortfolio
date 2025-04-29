@@ -153,7 +153,7 @@ const CONFIG = {
     {
       title: 'Python linear regression',
       conferenceName: '',
-      journalName: 'My blog',
+      journalName: '',
       authors: 'Ayoub Mohamed',
       link: 'https://medium.com/@ayoubsmohamed07/python-linear-regression-5f91b7bf1e56',
       description:
