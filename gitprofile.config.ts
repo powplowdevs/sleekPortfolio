@@ -80,7 +80,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://github.com/powplowdevs/sleekPortfolio/blob/main/MohamedAResume.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://raw.githubusercontent.com/powplowdevs/sleekPortfolio/main/MohamedAResume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'CyberSec',
@@ -96,7 +96,7 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: ' FCP: Cub Run Rec Center',
+      company: 'FCP: Cub Run Rec Center',
       position: 'General Support Assistant (Volunteer)',
       from: 'April 2024',
       to: 'May 2024',
@@ -113,7 +113,7 @@ const CONFIG = {
   certifications: [
     {
       name: 'Certificate of CS Achievement',
-      body: 'Woodson CSHS award displaying a students above and beyond expertise in computer science',
+      body: 'Woodson CSHS award displaying a student’s above-and-beyond expertise in computer science',
       year: 'May 2023',
       link: 'https://csteachers.org/cshs/',
     },
@@ -124,7 +124,7 @@ const CONFIG = {
     },
     {
       name: 'Google Foundations of Cyber-security Certificate',
-      body: 'First course in the Google Cybersecurity Certificate. Introduceing the cybersecurity profession, including the primary job responsibilities and core skills of entry-level analysts; significant events that led to the development of the cybersecurity field; and security’s continued importance to organizational operations. ',
+      body: 'First course in the Google Cybersecurity Certificate. Introducing the cybersecurity profession, including the primary job responsibilities and core skills of entry-level analysts; significant events that led to the development of the cybersecurity field; and security’s continued importance to organizational operations. ',
       year: '2023',
       link: 'https://www.coursera.org/account/accomplishments/certificate/M4VEWTZL58XR?trk=public_profile_certification-title',
     },
@@ -137,7 +137,7 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Carter G. Woodson High School,',
+      institution: 'Carter G. Woodson High School',
       degree: 'adv high school diploma',
       from: '2021',
       to: '2025',
