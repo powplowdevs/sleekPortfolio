@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['powplowdevs/WINSPAR-Windows-TCP-Optimizer', 'powplowdevs/ASIO-Client-Server-Framework'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['powplowdevs/WINSPAR-Windows-TCP-Optimizer', 'powplowdevs/ASIO-Client-Server-Framework', 'https://github.com/powplowdevs/SpyView'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -47,6 +47,14 @@ const CONFIG = {
           imageUrl:
             'https://img.freepik.com/free-vector/server-status-concept-illustration_114360-1293.jpg?t=st=1745937637~exp=1745941237~hmac=40ba38c07bc1399459133aba736be14225203cdc21f717c13b3740a40b4c9812&w=826',
           link: 'https://github.com/powplowdevs/ASIO-Client-Server-Framework',
+        },
+        {
+          title: 'SpyView',
+          description:
+            'SpyView is a browser extension that lets you see what’s happening behind the scenes as you browse the web. It monitors tracking and fingerprinting attempts in real-time, scores their risk level, and gives you a simple view of which domains are trying to follow your activity, all processed locally in your browser.',
+          imageUrl:
+            'https://github.com/powplowdevs/SpyView/blob/main/SpyViewLogo.jpg?raw=true',
+          link: 'https://github.com/powplowdevs/SpyView',
         },
       ],
     },
