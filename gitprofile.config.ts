@@ -146,7 +146,7 @@ const CONFIG = {
   educations: [
     {
       institution: 'Carter G. Woodson High School',
-      degree: 'adv high school diploma',
+      degree: "adv high school diploma | 4.0 gpa | Honor's graduate",
       from: '2021',
       to: '2025',
     },
