@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['powplowdevs/WINSPAR-Windows-TCP-Optimizer', 'powplowdevs/ASIO-Client-Server-Framework', 'https://github.com/powplowdevs/SpyView'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['powplowdevs/WINSPAR-Windows-TCP-Optimizer', 'powplowdevs/ASIO-Client-Server-Framework', 'powplowdevs/SpyView', 'powplowdevs/autoSFX'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -41,12 +41,12 @@ const CONFIG = {
           link: 'https://github.com/powplowdevs/WINSPAR-Windows-TCP-Optimizer',
         },
         {
-          title: 'ASIO Client-Server Framework',
+          title: 'AutoSFX Wizard',
           description:
-            'An asynchronous, non-blocking C++ framework built on Boost.Asio that lets your application initiate and accept network connections, transfer data, log events, and run background tasks all without ever pausing the main thread, every operation returns immediately and completes in the background so your program stays fully responsive at all times',
+            'AutoSFX is a Python + C++ tool that packs multiple files or folders into a single self-extracting .exe with support for compression, run control, and execution metadata. Great for building clean, portable installers.',
           imageUrl:
-            'https://img.freepik.com/free-vector/server-status-concept-illustration_114360-1293.jpg?t=st=1745937637~exp=1745941237~hmac=40ba38c07bc1399459133aba736be14225203cdc21f717c13b3740a40b4c9812&w=826',
-          link: 'https://github.com/powplowdevs/ASIO-Client-Server-Framework',
+            'https://github.com/powplowdevs/autoSFX/blob/main/testing_files/cats/cat4(aura).gif?raw=true',
+          link: 'https://github.com/powplowdevs/autoSFX',
         },
         {
           title: 'SpyView',
@@ -55,6 +55,14 @@ const CONFIG = {
           imageUrl:
             'https://github.com/powplowdevs/SpyView/blob/main/SpyViewLogo.jpg?raw=true',
           link: 'https://github.com/powplowdevs/SpyView',
+        },
+        {
+          title: 'ASIO Client-Server Framework',
+          description:
+            'An asynchronous, non-blocking C++ framework built on Boost.Asio that lets your application initiate and accept network connections, transfer data, log events, and run background tasks all without ever pausing the main thread, every operation returns immediately and completes in the background so your program stays fully responsive at all times',
+          imageUrl:
+            'https://img.freepik.com/free-vector/server-status-concept-illustration_114360-1293.jpg?t=st=1745937637~exp=1745941237~hmac=40ba38c07bc1399459133aba736be14225203cdc21f717c13b3740a40b4c9812&w=826',
+          link: 'https://github.com/powplowdevs/ASIO-Client-Server-Framework',
         },
       ],
     },
