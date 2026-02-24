@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['powplowdevs/WINSPAR-Windows-TCP-Optimizer', 'powplowdevs/ASIO-Client-Server-Framework', 'powplowdevs/SpyView', 'powplowdevs/autoSFX'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['powplowdevs/WINSPAR-Windows-TCP-Optimizer', 'powplowdevs/ASIO-Client-Server-Framework', 'powplowdevs/SpyView', 'powplowdevs/autoSFX', 'powplowdevs/Sandbox-my-Wallpaper'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -63,6 +63,14 @@ const CONFIG = {
           imageUrl:
             'https://img.freepik.com/free-vector/server-status-concept-illustration_114360-1293.jpg?t=st=1745937637~exp=1745941237~hmac=40ba38c07bc1399459133aba736be14225203cdc21f717c13b3740a40b4c9812&w=826',
           link: 'https://github.com/powplowdevs/ASIO-Client-Server-Framework',
+        },
+        {
+          title: 'Sandbox My Desktop',
+          description:
+            'Sandbox My Desktop is a real-time interactive sand simulation that lets users draw particles in a browser and have them instantly appear on my physical desktop display. Built with Flask and Flask-SocketIO, the backend runs a live simulation loop and streams grid updates over WebSockets, enabling true real-time synchronization between the web client and desktop renderer.',
+          imageUrl:
+            'https://github.com/powplowdevs/Sandbox-my-Wallpaper/blob/main/banner.png?raw=true',
+          link: 'https://github.com/powplowdevs/Sandbox-my-Wallpaper',
         },
       ],
     },
