@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['powplowdevs/WINSPAR-Windows-TCP-Optimizer', 'powplowdevs/ASIO-Client-Server-Framework', 'powplowdevs/SpyView', 'powplowdevs/autoSFX', 'powplowdevs/Sandbox-my-Wallpaper'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['powplowdevs/WINSPAR-Windows-TCP-Optimizer', 'powplowdevs/ASIO-Client-Server-Framework', 'powplowdevs/SpyView', 'powplowdevs/autoSFX', 'powplowdevs/Sandbox-my-Wallpaper', 'powplowdevs/LearnWebGL'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
